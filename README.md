@@ -23,3 +23,7 @@
 - [MCP终极指南 - 从原理到实战，带你深入掌握MCP（基础篇）](https://www.bilibili.com/video/BV1uronYREWR/?spm_id_from=333.1387.homepage.video_card.click)：强烈推荐！！！
 - [MCP终极指南 - 带你深入掌握MCP（进阶篇）](https://www.bilibili.com/video/BV1Y854zmEg9/?spm_id_from=333.1387.homepage.video_card.click)：强烈推荐！！！UP主通过抓包很清晰的讲清楚了MCP Host和MCP Server的交互过程，很清晰地看清楚MCP协议是什么样子
 - [MCP终极指南 - 番外篇：抓包分析 Cline 与模型的交互协议](https://www.bilibili.com/video/BV1v9V5zSEHA/?spm_id_from=333.1387.homepage.video_card.click)：强烈推荐！！！UP主通过样例很清晰的讲清楚了MCP Host和大模型之间是如何交互的，并且也大致描述了ReAct思想
+
+## 工具
+
+- [dify](https://dify.ai/zh)：轻松构建并部署生产级 Agentic AI 解决方案。Dify 提供 Agentic 工作流、RAG Pipeline、丰富的集成及可观测性等一站式能力，让 AI 触手可及。
