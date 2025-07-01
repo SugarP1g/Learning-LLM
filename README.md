@@ -22,6 +22,7 @@
 ## RAG
 
 - [RAG 工作机制详解——一个高质量知识库背后的技术全流程](https://www.bilibili.com/video/BV1JLN2z4EZQ/?spm_id_from=333.1387.homepage.video_card.click)：看过了，哔哩哔哩的UP主做的RAG工作机制讲解，讲解的深入浅出，**强烈推荐！！！**
+- [LLM检索增强生成(RAG)的基本原理和实现](https://paper.seebug.org/3287/)：还没看过
 
 ## MCP
 
