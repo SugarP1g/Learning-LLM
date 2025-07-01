@@ -37,3 +37,7 @@
 ## LLM安全
 
 - [AI原生安全CheckList](https://paper.seebug.org/3333/)
+
+## LLM for Security
+
+- [基于污点分析的 AI 自动化漏洞挖掘尝试](https://paper.seebug.org/3283/)：还没看过，有空看看
