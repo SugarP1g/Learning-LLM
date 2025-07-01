@@ -3,7 +3,7 @@
 ## 大模型教程
 
 - [面向开发者的大模型手册 - LLM Cookbook](https://github.com/datawhalechina/llm-cookbook)：还没看过
-- [llm-course，狂飙13.5K Star，GitHub上最全的开源大模型教程](https://zhuanlan.zhihu.com/p/676432440)：**强烈推荐！！！**很好很系统，有很多好的资源，给出了学习LLM的一个路径
+- [llm-course，狂飙13.5K Star，GitHub上最全的开源大模型教程](https://zhuanlan.zhihu.com/p/676432440)：**强烈推荐！！！** 很好很系统，有很多好的资源，给出了学习LLM的一个路径
 - [llm-course](https://github.com/mlabonne/llm-course)：还没看过
 - [GitHub狂飙3万star的LLM公开资料 - 大模型入门教程](https://zhuanlan.zhihu.com/p/686277638)：还没看过
 - [大规模语言模型：从理论到实践](https://intro-llm.github.io/#cite)：还没看过
