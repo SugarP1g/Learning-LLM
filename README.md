@@ -9,6 +9,10 @@
 - [大规模语言模型：从理论到实践](https://intro-llm.github.io/#cite)：还没看过
 - [2024年公认最好的【LLM大模型】教程！大模型入门到进阶，一套全解决！2024生成式人工智慧-附带课件代码](https://www.bilibili.com/video/BV1XS411w7qr/)：视频，有空看看
 
+### Transformer
+
+- [图解Transformer](https://jalammar.github.io/illustrated-transformer/)：深入浅出，要看。我还没看完
+
 ## 大模型开发
 
 - [LangChain 中文入门教程](https://liaokong.gitbook.io/llm-kai-fa-jiao-cheng)：还没看过
