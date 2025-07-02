@@ -23,6 +23,7 @@
 
 - [RAG 工作机制详解——一个高质量知识库背后的技术全流程](https://www.bilibili.com/video/BV1JLN2z4EZQ/?spm_id_from=333.1387.homepage.video_card.click)：看过了，哔哩哔哩的UP主做的RAG工作机制讲解，讲解的深入浅出，**强烈推荐！！！**
 - [LLM检索增强生成(RAG)的基本原理和实现](https://paper.seebug.org/3287/)：还没看过
+- [GraphRAG](https://microsoft.github.io/graphrag/index/overview/)：结构化的、分层的检索增强生成 (RAG) 方法，不同于使用纯文本片段的简单语义搜索方法。GraphRAG 的流程包括从原始文本中提取知识图谱、构建社区层次结构、为这些社区生成摘要，然后在执行基于 RAG 的任务时利用这些结构
 
 ## MCP
 
