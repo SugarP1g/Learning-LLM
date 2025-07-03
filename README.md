@@ -42,6 +42,7 @@
 ### 提示词注入(Prompt Injection)
 
 - [Prompt 越狱手册](https://paper.seebug.org/3243/)
+- [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)：GPT系统提示和各种提示注入/泄漏知识的集合。
 
 ## LLM for Security
 
