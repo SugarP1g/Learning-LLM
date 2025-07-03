@@ -39,7 +39,7 @@
 
 - [AI原生安全CheckList](https://paper.seebug.org/3333/)
 
-### Prompt注入
+### 提示词注入(Prompt Injection)
 
 - [Prompt 越狱手册](https://paper.seebug.org/3243/)
 
