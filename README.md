@@ -47,3 +47,4 @@
 ## LLM for Security
 
 - [基于污点分析的 AI 自动化漏洞挖掘尝试](https://paper.seebug.org/3283/)：还没看过，有空看看
+- [AI 生成代码安全性评测框架 —— A.S.E](https://mp.weixin.qq.com/s/7ebxYBrwBSE-n689uY43uQ)：[项目地址](https://github.com/Tencent/AICGSecEval)
