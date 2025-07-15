@@ -38,6 +38,7 @@
 ## LLM安全
 
 - [AI原生安全CheckList](https://paper.seebug.org/3333/)
+- [llm-guard](https://github.com/protectai/llm-guard)
 
 ### 提示词注入(Prompt Injection)
 
