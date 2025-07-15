@@ -9,6 +9,7 @@
 - [大规模语言模型：从理论到实践](https://intro-llm.github.io/#cite)：还没看过
 - [2024年公认最好的【LLM大模型】教程！大模型入门到进阶，一套全解决！2024生成式人工智慧-附带课件代码](https://www.bilibili.com/video/BV1XS411w7qr/)：视频，有空看看
 - [Brendan Bycroft 的LLM 可视化](https://bbycroft.net/llm)：**强烈推荐！！！**以 3D 可视化方式呈现 LLM 内部发生的情况。
+- [一文彻底理解 AIGC、Agent 、MCP 的概念和关系](https://zhuanlan.zhihu.com/p/1928117140751362037)：腾讯技术工程出品，简单介绍了RAG、Function Call、MCP的概念和原理，还不错
 
 ### Transformer
 
