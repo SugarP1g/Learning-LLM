@@ -10,6 +10,7 @@
 - [2024年公认最好的【LLM大模型】教程！大模型入门到进阶，一套全解决！2024生成式人工智慧-附带课件代码](https://www.bilibili.com/video/BV1XS411w7qr/)：视频，有空看看
 - [Brendan Bycroft 的LLM 可视化](https://bbycroft.net/llm)：**强烈推荐！！！**以 3D 可视化方式呈现 LLM 内部发生的情况。
 - [一文彻底理解 AIGC、Agent 、MCP 的概念和关系](https://zhuanlan.zhihu.com/p/1928117140751362037)：腾讯技术工程出品，简单介绍了RAG、Function Call、MCP的概念和原理，还不错
+- [大模型白盒子构建指南](https://github.com/datawhalechina/tiny-universe)：以“白盒”为导向、围绕大模型全链路的“手搓”大模型指南，还没看
 
 ### Transformer
 
@@ -35,6 +36,7 @@
 ## 工具
 
 - [dify](https://dify.ai/zh)：轻松构建并部署生产级 Agentic AI 解决方案。Dify 提供 Agentic 工作流、RAG Pipeline、丰富的集成及可观测性等一站式能力，让 AI 触手可及。
+- [N8N](https://n8n.io/)
 
 ## LLM安全
 
