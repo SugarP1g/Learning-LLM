@@ -45,6 +45,10 @@
 - [llm-security](https://github.com/greshake/llm-security)
 - [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security)
 
+### 工具
+
+- [agentic_security](https://github.com/msoedov/agentic_security?tab=readme-ov-file)
+
 ### 提示词注入(Prompt Injection)
 
 - [Prompt 越狱手册](https://paper.seebug.org/3243/)
