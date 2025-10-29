@@ -42,6 +42,8 @@
 
 - [AI原生安全CheckList](https://paper.seebug.org/3333/)
 - [llm-guard](https://github.com/protectai/llm-guard)
+- [llm-security](https://github.com/greshake/llm-security)
+- [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security)
 
 ### 提示词注入(Prompt Injection)
 
