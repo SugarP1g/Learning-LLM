@@ -45,6 +45,11 @@
 - [llm-security](https://github.com/greshake/llm-security)
 - [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security)
 
+### Agent安全
+
+- [Agentic AI基础设施实践经验系列（五）：Agent应用系统中的身份认证与授权管理](https://aws.amazon.com/cn/blogs/china/agentic-ai-infrastructure-practice-series-5/)
+- [Agentic AI基础设施实践经验系列（八）：Agent应用的隐私和安全](https://aws.amazon.com/cn/blogs/china/privacy-and-security-of-agent-applications/)
+
 ### 工具
 
 - [agentic_security](https://github.com/msoedov/agentic_security?tab=readme-ov-file)
