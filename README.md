@@ -45,6 +45,11 @@
 - [llm-security](https://github.com/greshake/llm-security)
 - [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security)
 
+### Anthropic公司
+
+- [自动化审计工具Petri技术报告](https://alignment.anthropic.com/2025/petri/)
+- [Petri开源地址](https://github.com/safety-research/petri)
+
 ### Agent安全
 
 - [Agentic AI基础设施实践经验系列（五）：Agent应用系统中的身份认证与授权管理](https://aws.amazon.com/cn/blogs/china/agentic-ai-infrastructure-practice-series-5/)
