@@ -70,3 +70,5 @@
 - [AI 生成代码安全性评测框架 —— A.S.E](https://mp.weixin.qq.com/s/7ebxYBrwBSE-n689uY43uQ)：[项目地址](https://github.com/Tencent/AICGSecEval)
 - [CSUR'25| 软件安全中的大型语言模型：漏洞检测技术与研究洞见综述](https://mp.weixin.qq.com/s/7AuNouE8uiuwEjhjbuPm4g)
 - [Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection)：收集了使用大模型在漏洞检测方向的论文
+- DeepAudit
+  - [拆解DeepAudit（一）：当LLM学会“思考”](https://mp.weixin.qq.com/s?__biz=MzE5OTA1ODM0Mg==&mid=2247484301&idx=1&sn=978948f93891c5396616c67789b3b2aa&scene=21&poc_token=HKu8iWmjcZvI5ckkTwYnL4pUlDmm6uQT7dwYX2An)
