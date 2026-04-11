@@ -38,6 +38,12 @@
 - [dify](https://dify.ai/zh)：轻松构建并部署生产级 Agentic AI 解决方案。Dify 提供 Agentic 工作流、RAG Pipeline、丰富的集成及可观测性等一站式能力，让 AI 触手可及。
 - [N8N](https://n8n.io/)
 
+## AI代码开发
+
+### Harness Engineering
+
+- [Harness Engineering 学习指南](https://github.com/deusyu/harness-engineering)
+
 ## LLM安全
 
 - [AI原生安全CheckList](https://paper.seebug.org/3333/)
