@@ -21,6 +21,14 @@
 - [LangChain 中文入门教程](https://liaokong.gitbook.io/llm-kai-fa-jiao-cheng)：还没看过
 - [LLM 应用开发实践笔记](https://aitutor.liduos.com/03-llamaIndex/03-3.html)：还没看过
 
+## AI Agent
+
+- [从零开始构建智能体](https://github.com/datawhalechina/hello-agents)：入门必看，跟着文档开发自己的第一个Agent
+
+### Skills
+
+- [Agent Skills 终极指南](https://github.com/libukai/awesome-agent-skills)
+
 ## RAG
 
 - [RAG 工作机制详解——一个高质量知识库背后的技术全流程](https://www.bilibili.com/video/BV1JLN2z4EZQ/?spm_id_from=333.1387.homepage.video_card.click)：看过了，哔哩哔哩的UP主做的RAG工作机制讲解，讲解的深入浅出，**强烈推荐！！！**
