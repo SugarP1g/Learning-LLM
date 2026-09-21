@@ -3,6 +3,12 @@
 - [Agent的行为检测和安全护栏的设计--运行时检测 (二)](https://mp.weixin.qq.com/s/c8-n22I_EZNaRMTVwoXyIg)
 - [Agent的行为检测和安全护栏的设计--外部数据溯源 (三)](https://mp.weixin.qq.com/s/3WH5vzRyYeNJMs5PiqafGg)
 
+## 攻击案例
+
+### 供应链
+
+- [Plugin4Shell：四大主流AI编程智能体同陷零点击RCE，插件市场"SHA锁定"防线被绕过](https://mp.weixin.qq.com/s/2kM19sXUAkcXSWsxHWK0fQ)
+
 ## 可观测
 
 - [TLS 全链路可观测体系：破解 LLM 应用黑盒，实现会话透明复盘](https://mp.weixin.qq.com/s/qbhsUJWQzI55T0d6sSplig)
