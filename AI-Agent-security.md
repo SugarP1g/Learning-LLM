@@ -13,7 +13,7 @@
 
 ### 行为检测
 
--[USENIX Security 2026｜上海创智学院×复旦大学给智能体装上轨迹「安全规则审计员」：让Agent的行动可审计、可解释](https://mp.weixin.qq.com/s/_twtM5_az_KwIjT7DsmLMw)
+- [USENIX Security 2026｜上海创智学院×复旦大学给智能体装上轨迹「安全规则审计员」：让Agent的行动可审计、可解释](https://mp.weixin.qq.com/s/_twtM5_az_KwIjT7DsmLMw)
 
 ### 可观测
 
