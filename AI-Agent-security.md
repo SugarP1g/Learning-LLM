@@ -33,6 +33,10 @@
 
 ## MISC
 
+### Jev模型
+
+- [这是一篇把"Jev模型"讲明白的科普级解读！](https://mp.weixin.qq.com/s/ynHlQijihuEZ3cqkQtXvrA)
+
 - [从发现 33 个 0day 漏洞，看安全攻防的下半场](https://security.tencent.com/index.php/blog/msg/222?from_tab=security)
 
 ### 工具
